@@ -1,5 +1,4 @@
 `timescale 10ns/1ns
-
 module create_pwm(
 	input clk,
 	output led
